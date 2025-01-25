@@ -1,5 +1,5 @@
 <h1 align="center">
-<img height="100px" src="https://pic1.imgdb.cn/item/6794d1d6d0e0a243d4f7e0ef.png" alt="dslogo"/>
+<img height="100px" src="https://img.picui.cn/free/2025/01/25/6794d7f9007e8.png" alt="dslogo"/>
 <br/>
 DreamStar UI
 </h1>

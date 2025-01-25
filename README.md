@@ -1,26 +1,29 @@
+>[!IMPORTANT]
+>This project is under development, thank you support!
+
 <h1 align="center">
 <img height="100px" src="https://img.picui.cn/free/2025/01/25/6794d7f9007e8.png" alt="dslogo"/>
 <br/>
 DreamStar UI
 </h1>
-<p align="center">Vue 3 用户组件库</p>
+<p align="center">User styles and controls of Vue3.<br/>If you like please give us a star! </p>
 
-## 开发计划
+## Dev Plan
 
 >[!TIP]
-> 不止计划的控件哦
+> Not only there are.
 
-基础控件
+Basic controls
 - Button
 - Card
 - TextBox
 
-导航控件
+Navigation controls
 - HeaderMenu
 - SiderMenu
 - ComboBox
 
-反馈控件
+Feedback controls
 - MsgBox
 - MsgBar
 - InfoCard
